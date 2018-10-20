@@ -43,7 +43,6 @@
 | --- | --- | --- | --- |
 | ![memento_tabitha][memento_tabitha] | ![memento_bandit][memento_bandit] | ![memento_gabriel][memento_gabriel] | ![memento_marshmallow][memento_marshmallow] |  
 | Tabitha | Bandit | Gabriel | Marshmallow |  
-| --- | --- | --- | --- |
 | Random seeds. | A trophy from a hard-fought battle? | A ticket for a store raffle. | A bookmark made from a purple pressed flower. |
 
 ### 특수 고양이 보물
