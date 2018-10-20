@@ -1,5 +1,7 @@
 # Mementos / 보물
 
+<img src="images/mementos_menu.png" width="25%" height="25%"> <img src="images/mementos_menu_selected.png" width="25%" height="25%">
+
 고양이들이 남기고 간 보물들을 전시되어 있다.  
 고양이들은 놀다가 자기가 원하면 보물은 남기고 간다. 보물을 줄 가능성은 랜덤이다.  
 보물이 있으면 게임을 시작할 때 하면이 어두워진다. 보물을 남기고 간 고양이만 선명하게 보이고, 고양이는 오른쪽에서 중앙으로 걸어온다. 고양이는 가운데 도달하면 가만히 앉아있고 정면을 바라본다.  
