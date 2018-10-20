@@ -19,7 +19,8 @@
 
 ## 보물 목록 예시
 
-| 보물 이름 |  
+| 보물 이름 |
+| --- |  
 | 보물 이미지 |  
 | 선물한 고양이 이름 |  
 | 보물 설명 |
@@ -27,23 +28,28 @@
 ### 일반 고양이 보물
 
 | Flowered Collar | Soft Brush | Glow Bracelet | Cicada Skin |  
+| --- | --- | --- | --- |
 | ![memento_snowball][memento_snowball] | ![memento_smokey][memento_smokey] | ![memento_spots][memento_spots] | ![memento_shadow][memento_shadow] |  
 | Snowball | Smokey | Spots | Shadow |  
 | A small collar with a flower print pattern. | A soft brush for fur. | Something to wear at evening events. | The cast-off skin from a molting cicada. |
 
 | Shiny Acorn | Seashell Earring | Aluminum Pins | Damp Matchbox |  
+| --- | --- | --- | --- |
 | ![memento_sunny][memento_sunny] | ![memento_fred][memento_fred] | ![memento_pumpkin][memento_pumpkin] | ![memento_callie][memento_callie] |  
 | Sunny | Fred | Pumpkin | Callie |  
 | An acorn with a shiny shell. | A lovely drop earring with a small seashell. | They make rattling noises when you shake them. | The matches are too damp to light. |
 
 | Random Seeds | Teaser Toy Tip | Raffle Ticket | Flower Bookmark |  
+| --- | --- | --- | --- |
 | ![memento_tabitha][memento_tabitha] | ![memento_bandit][memento_bandit] | ![memento_gabriel][memento_gabriel] | ![memento_marshmallow][memento_marshmallow] |  
 | Tabitha | Bandit | Gabriel | Marshmallow |  
+| --- | --- | --- | --- |
 | Random seeds. | A trophy from a hard-fought battle? | A ticket for a store raffle. | A bookmark made from a purple pressed flower. |
 
 ### 특수 고양이 보물
 
 | Signed Baseball | Feathered Hat | Fish Jerky | Small Glass Bottle |  
+| --- | --- | --- | --- |
 | ![memento_dimeowgio][memento_dimeowgio] | ![memento_dongato][memento_dongato] | ![memento_tubbs][memento_tubbs] | ![memento_hermeowne][memento_hermeowne] |  
 | Joe DiMeowgio | Senor Don Gato | Tubbs | Hermeowne |  
 | A baseball with someone's autograph. | An attractive hat decorated with feathers. | Piece of dried fish covered in claw marks. | It contains soft, fine powder. |
