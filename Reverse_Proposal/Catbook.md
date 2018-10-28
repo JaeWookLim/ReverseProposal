@@ -38,7 +38,7 @@
 ***
 | 타테지마상 / Joe Dimeowgio | 나가구츠상 / Senor Don Gato | 만조쿠상 / Tubbs | 미카즈키상 / Hermeowne |  
 | :---: | :---: | :---: | :---: |
-| <img src="images/cats/joe.jpg" width="%" height="%"/> | <img src="images/cats/senor.jpg" width="%" height="%"/> | <img src="images/cats/tubbs.jpg" width="%" height="%"/> | <img src="images/cats/hermeowne.png" width="%" height="%"/> |
+| <img src="images/cats/joe.jpg" width="%" height="%"/> | <img src="images/cats/senor.jpg" width="%" height="%"/> | <img src="images/cats/tubbs.jpg" width="%" height="%"/> | <img src="images/cats/hermeowne.jpg" width="%" height="%"/> |
 | 야구공 | 쥐돌이 |고급 사료, 캔, 생선회, 빅쿠션|달걀침대|
 | 세로 줄무늬, 야구광 | 조금기른 콧수염 | 푹신푹신 | 뾰족모자 |  
 | 열광, 팀플레이 | 책략가 | 쏜살같음 | 온순함 |
